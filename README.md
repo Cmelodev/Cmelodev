@@ -10,7 +10,8 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Rafa-C" height="30" width="40" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://img.icons8.com/?size=100&id=mQ01rhdaQzyT&format=png&color=000000">
+  <img align="center" alt="Rafa-C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 </div><br>
 
 Fascinado por tecnologia, respeito e por transformar a vida das pessoas através da programação 
