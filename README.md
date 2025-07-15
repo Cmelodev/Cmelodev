@@ -12,6 +12,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://img.icons8.com/?size=100&id=mQ01rhdaQzyT&format=png&color=000000">
   <img align="center" alt="Rafa-C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
+  <img align="center" alt="Rafa-C" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+  <img align="center" alt="Rafa-C" height="40" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
 </div><br>
 
 Fascinado por tecnologia, respeito e por transformar a vida das pessoas através da programação 
