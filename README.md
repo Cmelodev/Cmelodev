@@ -1,5 +1,5 @@
 
-### Olá! sou Carlos Eduardo 👋 
+### Hi there! I'am Carlos Eduardo 👋 
 
 [![instgram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduhh18?igsh=MTNiYzNiMzkwZA==)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5533998093326)
@@ -7,7 +7,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodeMelo17&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso no meu dia a dia 
+## technologies in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
@@ -17,4 +17,4 @@
   <img align="center" alt="Rafa-C" height="40" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
 </div><br>
 
-Fascinado por tecnologia, respeito e por transformar a vida das pessoas através da programação 
+Fascinated by technology, respect, and transforming people's lives through programming 
