@@ -1,5 +1,5 @@
 
-### Hi there! I'am Carlos Eduardo 👋 
+## Hi there! I'am Carlos Eduardo 👋 
 
 [![instgram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduhh18?igsh=MTNiYzNiMzkwZA==)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5533998093326)
@@ -7,7 +7,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodeMelo17&show_icons=true&theme=tokyonight)
 
-## technologies in my daily life
+## Technologies in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> 
