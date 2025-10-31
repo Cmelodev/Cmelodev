@@ -29,7 +29,7 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodeMelo17&show_icons=true&theme=tokyonight)
 
 
-Fascinated by technology, respect, and transforming people's lives through programming 
+**Fascinated by technology, respect, and transforming people's lives through programming**
 
 
 [![instgram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduhh18?igsh=MTNiYzNiMzkwZA==)
