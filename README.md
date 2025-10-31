@@ -1,9 +1,9 @@
 <!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
+    Dear DEV that using my README as a base
+    to create your own page, I’m honoured to authorize its use 
     and I’m glad you liked it! I just kindly ask for one thing:
 
-    Please, leave a star on my README it would truly make my day :)
+    Please, leave a star on my README it would truly make my day :P
     GitHub: https://github.com/Cmelodev
 -->
 
