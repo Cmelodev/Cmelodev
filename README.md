@@ -38,7 +38,7 @@
 <div>
 
 <!-- stats -->
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodeMelo17&show_icons=true&theme=tokyonight)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cmelodev&show_icons=true&theme=tokyonight)
 
 
 **Fascinated by technology, respect, and transforming people's lives through programming**
