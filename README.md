@@ -22,6 +22,10 @@
 ---
 <div align="center">
 
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20De%20Minas20%Gerais&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=25%25&img=https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg)]([https://github.com/Glauedson/github-readme-educational-badge](https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg))
+<div>
+
+
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardodeMelo17&show_icons=true&theme=tokyonight)
 
 
