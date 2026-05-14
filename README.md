@@ -13,13 +13,12 @@
   <img src="Olá, eu sou.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
----
 <!--introduce myself -->
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
 <div></div>
-
+---
 
 <!-- my stacks -->
 <h3 align="center">
