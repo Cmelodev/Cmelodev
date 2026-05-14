@@ -11,7 +11,8 @@
 ---
 <a href="https://github.com/Glauedson">
   <img src="Olá, eu sou.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
-</a>
+</a></div>
+
 
 <!--introduce myself -->
 <div align="center">
