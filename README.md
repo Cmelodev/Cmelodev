@@ -18,6 +18,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
 <div></div>
+
 ---
 
 <!-- my stacks -->
