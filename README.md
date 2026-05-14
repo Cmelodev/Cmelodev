@@ -35,7 +35,7 @@
 <div align="center">
 
 <!-- Education -->
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFME%20Instituto%20Federal%20De%20Minas20%Gerais&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=25%25&img=https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg)]([https://github.com/Glauedson/github-readme-educational-badge](https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg))
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFMG%20Instituto%20Federal%20De%20Minas20%Gerais&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=25%25&img=https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg)]([https://github.com/Glauedson/github-readme-educational-badge](https://www.ifmg.edu.br/sic/imagens/logoifmg.jpg))
 <div>
 
 <!-- stats -->
