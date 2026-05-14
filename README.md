@@ -13,9 +13,9 @@
   <img src="Olá, eu sou.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
-
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
 
 <!-- my stacks -->
 <h3 align="center">
