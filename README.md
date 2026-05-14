@@ -42,7 +42,7 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Cmelodev&show_icons=true&theme=tokyonight)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect;and+transforming+lives+through+programing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
 
 <!-- Social media -->
 [![instgram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduhh18?igsh=MTNiYzNiMzkwZA==)
