@@ -11,14 +11,14 @@
 ---
 <a href="https://github.com/Glauedson">
   <img src="Olá, eu sou.png" alt="Imagem de capa"  style="width:100%; height:auto"/>
-</a><br>
+</a>
 
 
 <!--introduce myself -->
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.)](https://git.io/typing-svg)
-<div></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fascined+by+tecnnology,+respect+and;transforming+lives+through+programing.&duration=2500&pause=1200)](https://git.io/typing-svg)
+<div>
 
 ---
 
